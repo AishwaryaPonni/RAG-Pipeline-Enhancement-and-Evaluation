@@ -64,6 +64,3 @@ assignment2-rag/
 - RAGAs evaluation requires OpenAI API (not included)
 - Confidence threshold not optimized on validation set
 - No semantic chunking or preprocessing applied
-
-## Contact
-For questions about this implementation, refer to the technical report or course materials.
