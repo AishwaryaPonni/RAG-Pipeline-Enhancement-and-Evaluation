@@ -31,15 +31,18 @@ jupyter notebook rag_assignment.ipynb
 ## File Structure
 ```
 assignment2-rag/
-├── rag_assignment.ipynb          # Main notebook
+├── RAG_development_evaluation.ipynb          # Main notebook
 ├── README.md                      # This file
 ├── requirements.txt               # Dependencies
 ├── technical_report.pdf           # Full analysis
 ├── ai_usage_log.md               # AI assistance documentation
+├── comparison.md                 # Comparison of the top1, top3 and enhanced rag (query rewriting and confidence scoring)
 └── results/
     ├── rag_results_basic_top1.csv
     ├── rag_results_top3.csv
     └── rag_results_enhanced.csv
+    └── rag_results_with_scores.csv
+
 ```
 
 ## Results Summary
